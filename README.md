@@ -2,6 +2,7 @@
 
 ## What it does
 Cleans and formats messy CSV or Excel data into a consistent, usable format.
+Removes duplicates, fixes formatting, and standardizes data.
 
 ## Example
 Input: messy_data.csv  
